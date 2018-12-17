@@ -3,10 +3,10 @@
   var coinjs = window.coinjs = function () { };
 
   /* public vars -  */
-  coinjs.pub = 0x3c;
-  coinjs.priv = 0x80;
-  coinjs.multisig = 0x7a;
-  coinjs.hdkey = {'prv':0x0488ade4, 'pub':0x0488b21e};
+  coinjs.pub = 0x19;
+  coinjs.priv = 0x8b;
+  coinjs.multisig = 0x69;
+  coinjs.hdkey = {'prv':0x05347eac, 'pub':0x0534e7ca};
   coinjs.compressed = false;
 
   /* start of address functions */
